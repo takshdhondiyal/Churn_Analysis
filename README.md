@@ -5,7 +5,7 @@ Analysis of a dataset to understand the customer behaviour.
 
 ETL in Power-Query
 
-Writing the DAXs to calculate total monthly and yearly revenue, churt rate, share of services opted by the customers etc.
+Writing the DAXs to calculate total monthly and yearly revenue, churn rate, share of services opted by the customers etc.
 
 Designing the Visuals.
 
